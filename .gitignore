@@ -1,0 +1,8 @@
+.agents/
+__pycache__/
+ORIGINAL_REQUEST.md
+peer_review.md
+PROJECT.md
+TEST_INFRA.md
+test_m2_reverification.py
+TEST_READY.md

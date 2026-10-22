@@ -1,0 +1,4 @@
+model,total_reviews,elapsed_seconds,reviews_per_second,device
+VADER,5400,5.1044,1057.92,cpu
+TF-IDF + Logistic Regression,5400,0.8415,6417.38,cpu
+RoBERTa,5400,130.157,41.49,cuda

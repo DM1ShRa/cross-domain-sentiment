@@ -1,0 +1,4 @@
+train_category,Books,Electronics,All_Beauty
+Books,0.7578,0.6415,0.6319
+Electronics,0.6364,0.739,0.6926
+All_Beauty,0.6111,0.6986,0.7412

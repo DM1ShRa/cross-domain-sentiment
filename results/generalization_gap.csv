@@ -1,0 +1,5 @@
+train_category,in_domain_f1,mean_cross_domain_f1,generalization_gap
+Books,0.7578,0.6367,0.1211
+Electronics,0.739,0.6645,0.0745
+All_Beauty,0.7412,0.6548,0.0864
+Overall_Mean,0.746,0.652,0.094

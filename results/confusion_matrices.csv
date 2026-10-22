@@ -1,0 +1,82 @@
+model,category,true_label,predicted_label,count,percentage
+VADER,Books,Negative,Negative,281,46.83
+VADER,Books,Negative,Neutral,31,5.17
+VADER,Books,Negative,Positive,288,48.0
+VADER,Books,Neutral,Negative,149,24.83
+VADER,Books,Neutral,Neutral,17,2.83
+VADER,Books,Neutral,Positive,434,72.33
+VADER,Books,Positive,Negative,46,7.67
+VADER,Books,Positive,Neutral,18,3.0
+VADER,Books,Positive,Positive,536,89.33
+VADER,Electronics,Negative,Negative,335,55.83
+VADER,Electronics,Negative,Neutral,49,8.17
+VADER,Electronics,Negative,Positive,216,36.0
+VADER,Electronics,Neutral,Negative,171,28.5
+VADER,Electronics,Neutral,Neutral,47,7.83
+VADER,Electronics,Neutral,Positive,382,63.67
+VADER,Electronics,Positive,Negative,25,4.17
+VADER,Electronics,Positive,Neutral,13,2.17
+VADER,Electronics,Positive,Positive,562,93.67
+VADER,All_Beauty,Negative,Negative,284,47.33
+VADER,All_Beauty,Negative,Neutral,90,15.0
+VADER,All_Beauty,Negative,Positive,226,37.67
+VADER,All_Beauty,Neutral,Negative,132,22.0
+VADER,All_Beauty,Neutral,Neutral,60,10.0
+VADER,All_Beauty,Neutral,Positive,408,68.0
+VADER,All_Beauty,Positive,Negative,8,1.33
+VADER,All_Beauty,Positive,Neutral,8,1.33
+VADER,All_Beauty,Positive,Positive,584,97.33
+TF-IDF + Logistic Regression,Books,Negative,Negative,451,75.17
+TF-IDF + Logistic Regression,Books,Negative,Neutral,123,20.5
+TF-IDF + Logistic Regression,Books,Negative,Positive,26,4.33
+TF-IDF + Logistic Regression,Books,Neutral,Negative,130,21.67
+TF-IDF + Logistic Regression,Books,Neutral,Neutral,401,66.83
+TF-IDF + Logistic Regression,Books,Neutral,Positive,69,11.5
+TF-IDF + Logistic Regression,Books,Positive,Negative,28,4.67
+TF-IDF + Logistic Regression,Books,Positive,Neutral,59,9.83
+TF-IDF + Logistic Regression,Books,Positive,Positive,513,85.5
+TF-IDF + Logistic Regression,Electronics,Negative,Negative,434,72.33
+TF-IDF + Logistic Regression,Electronics,Negative,Neutral,140,23.33
+TF-IDF + Logistic Regression,Electronics,Negative,Positive,26,4.33
+TF-IDF + Logistic Regression,Electronics,Neutral,Negative,133,22.17
+TF-IDF + Logistic Regression,Electronics,Neutral,Neutral,403,67.17
+TF-IDF + Logistic Regression,Electronics,Neutral,Positive,64,10.67
+TF-IDF + Logistic Regression,Electronics,Positive,Negative,20,3.33
+TF-IDF + Logistic Regression,Electronics,Positive,Neutral,89,14.83
+TF-IDF + Logistic Regression,Electronics,Positive,Positive,491,81.83
+TF-IDF + Logistic Regression,All_Beauty,Negative,Negative,444,74.0
+TF-IDF + Logistic Regression,All_Beauty,Negative,Neutral,124,20.67
+TF-IDF + Logistic Regression,All_Beauty,Negative,Positive,32,5.33
+TF-IDF + Logistic Regression,All_Beauty,Neutral,Negative,111,18.5
+TF-IDF + Logistic Regression,All_Beauty,Neutral,Neutral,385,64.17
+TF-IDF + Logistic Regression,All_Beauty,Neutral,Positive,104,17.33
+TF-IDF + Logistic Regression,All_Beauty,Positive,Negative,14,2.33
+TF-IDF + Logistic Regression,All_Beauty,Positive,Neutral,79,13.17
+TF-IDF + Logistic Regression,All_Beauty,Positive,Positive,507,84.5
+RoBERTa,Books,Negative,Negative,471,78.5
+RoBERTa,Books,Negative,Neutral,78,13.0
+RoBERTa,Books,Negative,Positive,51,8.5
+RoBERTa,Books,Neutral,Negative,203,33.83
+RoBERTa,Books,Neutral,Neutral,209,34.83
+RoBERTa,Books,Neutral,Positive,188,31.33
+RoBERTa,Books,Positive,Negative,17,2.83
+RoBERTa,Books,Positive,Neutral,78,13.0
+RoBERTa,Books,Positive,Positive,505,84.17
+RoBERTa,Electronics,Negative,Negative,520,86.67
+RoBERTa,Electronics,Negative,Neutral,44,7.33
+RoBERTa,Electronics,Negative,Positive,36,6.0
+RoBERTa,Electronics,Neutral,Negative,279,46.5
+RoBERTa,Electronics,Neutral,Neutral,162,27.0
+RoBERTa,Electronics,Neutral,Positive,159,26.5
+RoBERTa,Electronics,Positive,Negative,22,3.67
+RoBERTa,Electronics,Positive,Neutral,35,5.83
+RoBERTa,Electronics,Positive,Positive,543,90.5
+RoBERTa,All_Beauty,Negative,Negative,502,83.67
+RoBERTa,All_Beauty,Negative,Neutral,57,9.5
+RoBERTa,All_Beauty,Negative,Positive,41,6.83
+RoBERTa,All_Beauty,Neutral,Negative,292,48.67
+RoBERTa,All_Beauty,Neutral,Neutral,125,20.83
+RoBERTa,All_Beauty,Neutral,Positive,183,30.5
+RoBERTa,All_Beauty,Positive,Negative,18,3.0
+RoBERTa,All_Beauty,Positive,Neutral,33,5.5
+RoBERTa,All_Beauty,Positive,Positive,549,91.5
